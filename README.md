@@ -10,3 +10,4 @@ How to use:
 First, you need to include this code in the header:
 
 <script type="text/javascript" language="javascript" src="js/putImage.js"></script>
+
