@@ -9,5 +9,7 @@ How to use:
 
 First, you need to include this code in the header:
 
-<code>source code</code>
+```html
+<script type="text/javascript" language="javascript" src="js/putImage.js"></script>
+```
 
